@@ -7,7 +7,7 @@ use Carbon\Carbon;
 
 trait LastActivedAtHelper
 {
-    // 缓存相关
+    // 缓存相关 Test
     protected $hash_prefix = 'larabbs_last_actived_at_';
     protected $field_prefix = 'user_';
 
